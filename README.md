@@ -4,7 +4,7 @@
 
 ## 🕶 Preview
 
-![Tweety Preview](preview.png)
+![Tweety Preview](TweetyPreview.jpg)
 
 ## 📝 Overview
 
